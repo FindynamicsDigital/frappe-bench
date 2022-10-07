@@ -1,0 +1,18 @@
+09:03:07 Worker rq:worker:f2b0fbb155d842a5bb1f71aca6662caf.ip-172-31-6-38.9493.home-ubuntu-frappe-bench:default: started, version 1.10.1
+09:03:07 Subscribing to channel rq:pubsub:f2b0fbb155d842a5bb1f71aca6662caf.ip-172-31-6-38.9493.home-ubuntu-frappe-bench:default
+09:03:07 *** Listening on home-ubuntu-frappe-bench:default...
+09:03:07 Cleaning registries for queue: home-ubuntu-frappe-bench:default
+09:03:07 Worker rq:worker:235ad80aa382401487b67313aa45f894.ip-172-31-6-38.9489.home-ubuntu-frappe-bench:short: started, version 1.10.1
+09:03:07 Subscribing to channel rq:pubsub:235ad80aa382401487b67313aa45f894.ip-172-31-6-38.9489.home-ubuntu-frappe-bench:short
+09:03:07 *** Listening on home-ubuntu-frappe-bench:short...
+09:03:07 Cleaning registries for queue: home-ubuntu-frappe-bench:short
+09:03:07 Worker rq:worker:ecae486171dd443bb768a9bd9428b10d.ip-172-31-6-38.9479.home-ubuntu-frappe-bench:long: started, version 1.10.1
+09:03:07 Subscribing to channel rq:pubsub:ecae486171dd443bb768a9bd9428b10d.ip-172-31-6-38.9479.home-ubuntu-frappe-bench:long
+09:03:07 *** Listening on home-ubuntu-frappe-bench:long...
+09:03:07 Cleaning registries for queue: home-ubuntu-frappe-bench:long
+09:05:26 Warm shut down requested
+09:05:26 Unsubscribing from channel rq:pubsub:235ad80aa382401487b67313aa45f894.ip-172-31-6-38.9489.home-ubuntu-frappe-bench:short
+09:05:26 Warm shut down requested
+09:05:26 Warm shut down requested
+09:05:26 Unsubscribing from channel rq:pubsub:f2b0fbb155d842a5bb1f71aca6662caf.ip-172-31-6-38.9493.home-ubuntu-frappe-bench:default
+09:05:26 Unsubscribing from channel rq:pubsub:ecae486171dd443bb768a9bd9428b10d.ip-172-31-6-38.9479.home-ubuntu-frappe-bench:long
